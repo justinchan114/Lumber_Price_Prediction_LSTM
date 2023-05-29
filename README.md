@@ -1,4 +1,4 @@
-# lumber_price_predict
+# Lumber Price prediction with LSTM
 This repository will predict the price of lumber futures with LSTM model.
 ## Data Set
 Data set is from Kaggle, the "Commodity Futures Price History". It is available here: </br>
